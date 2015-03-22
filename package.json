@@ -1,0 +1,16 @@
+{
+  "name": "html-nested-comments",
+  "main": "./lib/html-nested-comments",
+  "version": "0.1.0",
+  "description": "Nested Comments In HTML",
+  "author":"Phil Sinatra",
+  "github":"https://github.com/philsinatra",
+  "activationEvents": ["html-nested-comments:comment"],
+  "repository": "https://github.com/atom/html-nested-comments",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
