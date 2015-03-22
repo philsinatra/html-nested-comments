@@ -6,7 +6,7 @@
   "author":"Phil Sinatra",
   "github":"https://github.com/philsinatra",
   "activationEvents": ["html-nested-comments:comment"],
-  "repository": "https://github.com/atom/html-nested-comments",
+  "repository": "https://github.com/philsinatra/html-nested-comments",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
