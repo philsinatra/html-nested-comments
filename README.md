@@ -23,7 +23,7 @@ Run the nest command and the code is transformed into:
 <!-- <div class="wrapper">
   <div class="main">
     <div class="content">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis recusandae assumenda consequuntur, incidunt sapiente at quas quam sequi ipsa similique natus laborum et perferendis est, doloremque harum voluptatem totam asperiores!</p>
+      <p>Lorem ipsum dolor sit amet.</p>
     </div>
     <!~~ /.content ~~>
   </div>
