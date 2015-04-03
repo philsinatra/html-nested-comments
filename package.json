@@ -1,7 +1,7 @@
 {
   "name": "html-nested-comments",
   "main": "./lib/html-nested-comments",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Nested Comments In HTML",
   "author": "Phil Sinatra",
   "github": "https://github.com/philsinatra",
