@@ -2,14 +2,15 @@
 
 module.exports =
   activate: ->
-    atom.workspaceView.command "html-nested-comments:comment", => @comment()
+    atom.commands.add 'atom-workspace',
+      'html-nested-comments:comment': => @comment()
 
   comment: ->
     # This assumes the active pane item is an editor
     if editor = atom.workspace.getActiveTextEditor()
       fileName  = editor.getTitle()
       selection = editor.getSelectedText()
-      ext       = fileName.split('.').pop();
+      ext       = fileName.split('.').pop()
 
       # File extensions that will use this type of commenting
       extensions = [
