@@ -2,6 +2,8 @@
 
 The built in comment function in Atom runs into an issue if your HTML code contains comments that you want to maintain while block commenting larger areas of code. This plugin will temporarily disable the nested comments so that you can bulk comment out blocks of HTML that already contain comments.
 
+![example image](http://cdn.philsinatra.com/libraries/atom/html-nested-comments/atom-nested-comments.gif)
+
 The default keybinding is set to <kbd>ctrl</kbd> + <kbd>/</kbd>.
 
 ```html
