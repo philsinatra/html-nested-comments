@@ -20,6 +20,8 @@ module.exports =
         'md',
         'asp',
         'cfm'
+        'xml'
+        'svg'
       ]
 
       if ext in extensions

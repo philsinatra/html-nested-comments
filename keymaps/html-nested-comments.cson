@@ -7,5 +7,18 @@
 
 # For more detailed documentation see
 # https://atom.io/docs/latest/advanced/keymaps
-'atom-workspace':
+'atom-text-editor[data-grammar="text html basic"]:not([mini])':
+  'ctrl-/': 'html-nested-comments:comment'
+
+'atom-text-editor[data-grammar="source gfm"]:not([mini])':
+  'ctrl-/': 'html-nested-comments:comment'
+
+
+'atom-text-editor[data-grammar="text html php"]:not([mini])':
+  'ctrl-/': 'html-nested-comments:comment'
+
+'atom-text-editor[data-grammar="text xml svg"]:not([mini])':
+  'ctrl-/': 'html-nested-comments:comment'
+
+'atom-text-editor[data-grammar="text xml"]:not([mini])':
   'ctrl-/': 'html-nested-comments:comment'
