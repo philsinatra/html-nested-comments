@@ -46,5 +46,7 @@ Currently the functionality is setup only to work with files that have the follo
 - asp
 - cfm
 - md
+- xml
+- svg
 
-The file extension limitation can be lifted if it turns out to be more of a nuisance than a feature.
+To add support for additional file extensions, see the [EXTENDING](doc/EXTENDING.md) document for more information.
