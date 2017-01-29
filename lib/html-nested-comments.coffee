@@ -19,8 +19,8 @@ module.exports =
         'php'
         'md',
         'asp',
-        'cfm'
-        'xml'
+        'cfm',
+        'xml',
         'svg'
       ]
 
