@@ -13,7 +13,6 @@
 'atom-text-editor[data-grammar="source gfm"]:not([mini])':
   'ctrl-/': 'html-nested-comments:comment'
 
-
 'atom-text-editor[data-grammar="text html php"]:not([mini])':
   'ctrl-/': 'html-nested-comments:comment'
 
