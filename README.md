@@ -1,6 +1,6 @@
-[![apm](https://img.shields.io/apm/v/html-nested-comments.svg?style=flat-square)]()
-[![apm](https://img.shields.io/apm/dm/html-nested-comments.svg?style=flat-square)]()
-[![license](https://img.shields.io/github/license/philsinatra/html-nested-comments.svg?style=flat-square)]()
+[![apm](https://img.shields.io/apm/v/html-nested-comments.svg?style=flat-square)](https://atom.io/packages/html-nested-comments)
+[![apm](https://img.shields.io/apm/dm/html-nested-comments.svg?style=flat-square)](https://atom.io/packages/html-nested-comments)
+[![license](https://img.shields.io/github/license/philsinatra/html-nested-comments.svg?style=flat-square)](https://github.com/philsinatra/html-nested-comments/blob/master/LICENSE.md)
 
 # HTML Nested Comments
 
