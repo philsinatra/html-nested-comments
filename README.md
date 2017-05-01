@@ -1,3 +1,7 @@
+[![apm](https://img.shields.io/apm/v/html-nested-comments.svg?style=flat-square)]()
+[![apm](https://img.shields.io/apm/dm/html-nested-comments.svg?style=flat-square)]()
+[![license](https://img.shields.io/github/license/philsinatra/html-nested-comments.svg?style=flat-square)]()
+
 # HTML Nested Comments
 
 The built in comment function in Atom runs into an issue if your HTML code contains comments that you want to maintain while block commenting larger areas of code. This plugin will temporarily disable the nested comments so that you can bulk comment out blocks of HTML that already contain comments.
