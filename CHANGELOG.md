@@ -1,3 +1,10 @@
+# Change Log
+All notable changes to this project will be documented in this file.
+This project adheres to [Semantic Versioning](http://semver.org/).
+
+## 3.3.0
+- Add `.vue` Extension Support
+
 ## 3.2.0
 - Depreciated `atom.workspaceView` converted to newest versions of commands/events
 

@@ -21,7 +21,8 @@ module.exports =
         'asp',
         'cfm',
         'xml',
-        'svg'
+        'svg',
+        'vue'
       ]
 
       if ext in extensions
